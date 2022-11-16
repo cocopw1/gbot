@@ -121,4 +121,4 @@ async def leaderboard(ctx):
     await ctx.send(embed =emb)
         
     
-bot.run('OTQ4MTUxMjg1MzU2NTc2Nzc4.Yh3osg.amx2jTpA3THSOu-T7qpACZjjOmQ')
+bot.run("you won't get that")
